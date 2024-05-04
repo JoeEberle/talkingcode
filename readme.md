@@ -1,10 +1,10 @@
 
-# Talking Code Library  - A library .py file for text to speech 
-A library .py file for text to speech 
+# Talking Code Library  - A library .pie file for text to speech 
+A library .pie file for text to speech 
 
 Welcome to the solution **Talking Code Library ** - an example for your projects
 
-A library .py file for text to speech 
+A library .pie file for text to speech 
 
 ## Features
 - Easy to understand and use  
@@ -34,4 +34,4 @@ To get started with the **Talking Code Library ** solution repository, follow th
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures
+    ## Deliverables or Figures![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
