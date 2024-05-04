@@ -6,7 +6,7 @@ Welcome to the solution **Talking Code Library ** - an example for your projects
 
 A library .pie file for text to speech 
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
