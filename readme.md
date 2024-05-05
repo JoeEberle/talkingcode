@@ -44,5 +44,5 @@ To get started with the **Talking Code Library ** solution repository, follow th
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>
+ 
     
