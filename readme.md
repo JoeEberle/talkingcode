@@ -35,11 +35,8 @@ To get started with the **Talking Code Library ** solution repository, follow th
  
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
