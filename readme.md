@@ -1,9 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Talking Code Library  - A library .pie file for text to speech 
-A library .pie file for text to speech 
-
+![Image image_filename](solution_sign.png)# Talking Code Library  - A library .pie file for text to speech 
 Welcome to the solution **Talking Code Library ** - an example for your projects
 
 A library .pie file for text to speech 
@@ -22,6 +17,9 @@ To get started with the **Talking Code Library ** solution repository, follow th
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -31,13 +29,11 @@ To get started with the **Talking Code Library ** solution repository, follow th
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
